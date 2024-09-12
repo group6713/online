@@ -1,5 +1,5 @@
 import "./NozimjonNN.css"
-import img from "./Img/main.png"
+import img from "./Img//NozimjonNN/main.png"
 
 function App() {
     return (
