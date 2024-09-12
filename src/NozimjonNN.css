@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Quicksand:wght@300..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+}
+
+.NozimjonNN {
+    background: linear-gradient(107.08deg, #190D2E 0.54%, #020103 99.46%);
+    padding: 76px, 50px, 76px, 50px;
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    color: white !important;
+}
+.NozimjonNN::selection {
+    color: white;
+    background-color: transparent;
+}
+
+.N1 {
+    font-family: Inter;
+    font-size: 56px;
+    font-weight: 300;
+    line-height: 65px;
+    letter-spacing: -0.015em;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.Nimg {
+    margin-left: 40px;
+    width: 90%;
+}
