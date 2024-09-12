@@ -1,15 +1,9 @@
-import "./NozimjonNN.css"
-import img from "./Img//NozimjonNN/main.png"
+import MyPart from "./Components/NozimjonNN/MyPart"
 
 function App() {
     return (
     <>
-      <div className="NozimjonNN">
-        <span className="N1">Elevate your <br /> SEO efforts.</span>
-        <div className="Ngroup">
-          <img src={ img } className="Nimg"/>
-        </div>
-      </div>
+      <MyPart />
     </>
   )
 }
