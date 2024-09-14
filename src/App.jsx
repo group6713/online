@@ -5,7 +5,7 @@ function App() {
     <>
       <NozimjonPart />
       <Ruxsora />
-      salom men bu men 
+       
     </>
   )
 }
