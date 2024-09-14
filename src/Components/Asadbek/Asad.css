@@ -1,0 +1,61 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    padding: 10px 20px;
+    border-bottom: 2px solid #1e1e1e;
+  }
+  
+  .logo .icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style: none;
+  }
+  
+  .nav-links li {
+    margin: 0 15px;
+    position: relative;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .nav-links li:hover .dropdown {
+    display: block;
+  }
+  
+  .dropdown {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    top: 100%;
+    left: 0;
+    padding: 10px;
+  }
+  
+  .dropdown li {
+    margin: 5px 0;
+  }
+  
+  .cta .join-waitlist {
+    background-color: #6e00ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cta .join-waitlist:hover {
+    background-color: #5c00e6;
+  }
+  
