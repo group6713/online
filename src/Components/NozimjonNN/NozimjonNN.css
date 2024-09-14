@@ -30,7 +30,21 @@
     margin-left: 40px;
     margin-top: 40px;
 }
-.Nimg {
-    margin-left: 40px;
+.wh, .gray {
+    font-family: Inter;
+}
+.Ngroup {
     width: 90%;
+    display: flex;
+    margin-left: 40px;
+}
+.log {
+    gap: 10px;
+}
+.gray {
+    color: lightgray;
+}
+.miniGroup {
+    width: 30%;
+    display: flex;
 }
