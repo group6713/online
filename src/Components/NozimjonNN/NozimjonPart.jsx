@@ -9,7 +9,7 @@ import logo7 from "./Img/7.png"
 import logo8 from "./Img/8.png"
 import logo9 from "./Img/9.png"
 
-function MyPart() {
+function NozimjonPart() {
     return (
     <>
       <div className="NozimjonNN">
@@ -52,4 +52,4 @@ function MyPart() {
   )
 }
 
-export default MyPart
+export default NozimjonPart

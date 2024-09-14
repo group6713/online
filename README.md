@@ -1,8 +1,19 @@
-# React + Vite
+assalomu aleykum
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+bu proekt 14.09.2024 tugatildi
 
-Currently, two official plugins are available:
+Components>NozimjoNN
+Img:
+1.png
+2.png
+3.png
+4.png
+5.png
+6.png
+7.png
+8.png
+9.png
+MyPart.jsx --> reaname to -> NozimjonPart.jsx
+MyPart --> rename to -> NozimjonPart
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+by proekt kechikganni sababi: bowqa kurslar bilan maktab t6g'ri proektni tugatiwni qoymadi

@@ -1,9 +1,9 @@
-import MyPart from "./Components/NozimjonNN/MyPart"
+import NozimjonPart from "./Components/NozimjonNN/NozimjonPart"
 
 function App() {
     return (
     <>
-      <MyPart />
+      <NozimjonPart />
     </>
   )
 }
